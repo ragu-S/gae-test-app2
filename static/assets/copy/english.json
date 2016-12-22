@@ -1,0 +1,19 @@
+{
+  "preloader": {
+    "image": {
+      "main": "/assets/images/preloader-title-english.svg"
+    },
+    "description": "**Grab** an *oreo cookie*\nto **dunk it** anywhere\nin *the world*",
+    "loader": "loading"
+  },
+  "landing": {
+    "description": "**Dunk** your *oreo cookie*\nright around *the world*",
+    "button": "**scan your cookie**"
+  },
+  "menu": {
+    "home": "home",
+    "about": "about",
+    "privacy": "privacy & terms",
+    "share": "share"
+  }
+}

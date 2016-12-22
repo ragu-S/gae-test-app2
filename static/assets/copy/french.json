@@ -1,0 +1,13 @@
+{
+  "preloader": {
+    "image": {
+      "main": "https://placeholdit.imgix.net/~text?txtsize=70&txt=747%C3%97440&w=747&h=440"
+    },
+    "description": "**Prenez** an *cookie oreo*\nto **l'enfoncer partout** anywhere in *le monde*",
+    "loader": "Chargement"
+  },
+  "landing": {
+    "title": "Défi Oreo Dunk",
+    "instruction": "Prenez un oreo pour l'enfoncer partout dans le monde"
+  }
+}
